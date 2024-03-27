@@ -18,3 +18,11 @@
 - Step by step approach to throttling in Javascript
 - Debouncing vs Throttling in Javascript
 - Examples of Throttling - Real Life Scenarios
+
+
+## Local Storage & Session Storage
+
+- Understanding Web Storage API including, localStorage and sessionStorage
+- Explaining how companies like Flipkart and Paytm use Local Storage
+- How can this will help you in Machine Coding Round of your Web/UI developer Interview
+- Code Example for how to use Local Storage functions
