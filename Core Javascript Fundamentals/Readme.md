@@ -1,3 +1,25 @@
+## Call , Apply , Bind
+
+1. What is call , Apply and Bind Method?
+2. Why we need ?
+3. How these method works?
+3. What's diffrence between them?
+
+## Polyfill for bind method
+
+1. What is Pollyfill?
+2. What Pollyfill for bind?
+3. Why we need Pollyfill?
+4. Implementaion
+
+## Currying 
+
+1. What is Currying?
+2. Different methods to use ?
+3. Curring using Bind method
+4. Curring using Closures
+5. Implementation
+
 ## Event Bubbling , capturing , Trickling 
 
 1. What is Event Bubbling, Capturing, Trickling explained thoroughly
