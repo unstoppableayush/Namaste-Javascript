@@ -3,10 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Core Javascript</title>
+    <style>
+        div{
+            min-width: 100px;
+            min-height: 100px;
+            padding: 30px;
+            border: 1px solid black;
+        }
+    </style>
 </head>
 <body>
     <!-- <script src="call_apply_bind.js"></script> -->
-    <script src="polyfill_for_bind.js"></script>
+    <!-- <script src="polyfill_for_bind.js"></script> -->
+
+    <div id="grandparent">
+        <div id="parent">
+            <div id="child">
+
+            </div>
+        </div>
+    </div>
+
+    <script src="event_bubbling_and_capturing.js"></script>
 </body>
 </html>
