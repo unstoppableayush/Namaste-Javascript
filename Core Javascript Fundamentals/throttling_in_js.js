@@ -1,5 +1,7 @@
 /**
- * Generally used for performance optimization and rate limiting the function calls 
+ * Generally used for performance optimization and rate limiting the function calls .
+ * hrottling restricts the rate at which a function can be executed, 
+ * ensuring it is not invoked more frequently than a specified limit within a given time interval.
  * 
  */
 let count = 0;
