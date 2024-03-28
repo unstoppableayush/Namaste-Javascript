@@ -70,3 +70,11 @@
 - Explaining how companies like Flipkart and Paytm use Local Storage
 - How can this will help you in Machine Coding Round of your Web/UI developer Interview
 - Code Example for how to use Local Storage functions
+
+## Prototype and Prototypal Inheritance
+
+- What is Prototype?
+- What is Prototypal Inheritance?
+- What is Prototype Chain?
+- Why we call it _proto_ ?
+- What is inhertance in Javascrip
