@@ -28,3 +28,6 @@ const obj = {
   deepCopy.a = 4;
   
   console.log(obj.a); // 1
+
+  // For deep copy -> 1. array destucturing {...obj} , 2. structuredClone(obj1)
+  // For shallow copy -> Object.assign(dest , sources);
